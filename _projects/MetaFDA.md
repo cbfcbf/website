@@ -2,23 +2,19 @@
 layout: page
 title: Meta-learning Implicit Neural Representation for Sparse Time Series Functional Data Analysis
 description: Research project advised by Prof. Mihaela van der schaar.
-img: assets/img/12.jpg
+img: assets/img/MetaINR.pdf
 importance: 1
 category: work
 related_publications: true
 ---
+Proposed MetaINR method for learning the implicit neural representation (INR) of time series from sparse and irregular observations
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Employed the SIREN-based network architecture to robustly recover complete samples based on a few observation points, preserving fine details in each sample 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Incorporated meta-learning into the functional data analysis (FDA) framework, efficiently estimating mean function, covariance operator, and functional principal components without any prior assumptions 
+
+Conducted experiments on both synthetic and real medical data, demonstrating that MetaINR significantly outperforms baseline methods in terms of estimation accuracy and robustness
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
