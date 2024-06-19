@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta-learning Implicit Neural Representation for Sparse Time Series Functional Data Analysis
-description: with background image
+description: Research project advised by Prof. Mihaela van der schaar.
 img: assets/img/12.jpg
 importance: 1
 category: work
