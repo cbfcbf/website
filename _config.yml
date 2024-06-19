@@ -295,8 +295,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["Bofan","B."]
-  first_name: ["Chen"]
+  last_name: [Bofan]
+  first_name: [Chen]
 
   style: apa
   locale: en
