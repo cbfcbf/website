@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Design of Ground-Air Cooperative Delivery System
+description: Research project advised by Prof. Xuefeng Wang
+img: assets/img/unmanned_delivery.png
+importance: 4
 category: work
 ---
+# TODO
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

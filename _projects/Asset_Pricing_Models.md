@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Comparison of Asset Pricing Models
+description: Undergraduate thesis
+img: assets/img/publication_preview/Comparision_Models_in_Chinese_stock_market.png
+importance: 5
+category: work
 ---
+# TODO
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
