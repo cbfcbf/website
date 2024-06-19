@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
   # >
   #   <p>555 your office number</p>
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a master's student majoring in mathematical statistics at the University of Cambridge. My research interest lies in legged robots, high-dimensional statistics, machine learning,and complex networks. 
+I am a master's student majoring in mathematical statistics at the University of Cambridge. My research interest lies in robot locomotion(quadruped robots), deep learning(reinforcement learning, large language models, meta-learning), and complex networks. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
