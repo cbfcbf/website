@@ -3,7 +3,7 @@ layout: page
 title: Quadruped robot's design and control
 description: Course project
 img: assets/img/legged_robot.jpg
-importance: 3
+importance: 1
 category: fun
 giscus_comments: true
 ---
