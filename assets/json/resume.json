@@ -1,1 +1,224 @@
-{}
+{
+    "basics": {
+      "name": "Chen Bofan",
+      "label": "Mathematician and Financial Economist",
+      "image": "",
+      "email": "cbfcbf.byron@gmail.com",
+      "phone": "+86 186-5816-3995",
+      "url": "",
+      "summary": "A highly accomplished mathematician and financial economist with a strong background in mathematics, finance, and engineering. Known for significant contributions in temporal network analysis and robust time series data representation.",
+      "location": {
+        "address": "University of Cambridge",
+        "postalCode": "",
+        "city": "Cambridge",
+        "countryCode": "UK",
+        "region": "Cambridgeshire"
+      },
+      "profiles": []
+    },
+    "work": [
+      {
+        "name": "University of Cambridge",
+        "position": "Researcher",
+        "url": "",
+        "startDate": "2023-11-01",
+        "endDate": "2024-05-01",
+        "summary": "Conducted research on meta-learning for time series data, proposing the MetaINR method and demonstrating its superior performance in various experiments.",
+        "highlights": [
+          "Developed MetaINR method for implicit neural representation of time series.",
+          "Integrated meta-learning into functional data analysis framework."
+        ]
+      },
+      {
+        "name": "Peking University",
+        "position": "Undergraduate Researcher",
+        "url": "",
+        "startDate": "2022-12-01",
+        "endDate": "2023-05-01",
+        "summary": "Conducted Bayesian comparison of asset pricing models, applying MCMC methods and analyzing the robustness of various priors.",
+        "highlights": [
+          "Utilized Bayesian statistics to compare asset pricing models.",
+          "Applied methodology to Chinese stock market data."
+        ]
+      },
+      {
+        "name": "Freestone Robotics Co., Ltd.",
+        "position": "Intern",
+        "url": "",
+        "startDate": "2021-07-01",
+        "endDate": "2022-02-01",
+        "summary": "Worked on traditional motion detection algorithms and modified SLAM methods for improved robotic performance.",
+        "highlights": [
+          "Reviewed traditional motion detection algorithms.",
+          "Modified GMAPPING source code for non-ROS applications."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "OneWho (Peking University Student Organization)",
+        "location": "Beijing, China",
+        "position": "Founding Team Member",
+        "url": "",
+        "startDate": "2021-11-01",
+        "endDate": "2023-06-01",
+        "summary": "Established a multidisciplinary student team for applying knowledge in engineering practice and promoting cross-disciplinary collaboration.",
+        "highlights": [
+          "Set up the course 'Building Drones from Scratch' with over 100 students enrolled each semester.",
+          "Guided 24 students in mechanical design, circuit design, and controller programming."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Cambridge",
+        "location": "Cambridge, UK",
+        "url": "",
+        "area": "Mathematics",
+        "studyType": "Master's",
+        "startDate": "2023-08-01",
+        "endDate": "2024-06-01",
+        "score": "73%",
+        "courses": [
+          "Convex Optimization",
+          "Numerical Solution of Differential Equations",
+          "Statistical Theory",
+          "Information Theory",
+          "Advanced Probability",
+          "Stochastic Calculus",
+          "Functional Data Analysis"
+        ]
+      },
+      {
+        "institution": "Peking University",
+        "location": "Beijing, China",
+        "url": "",
+        "area": "Financial Economics",
+        "studyType": "Bachelor's",
+        "startDate": "2019-06-01",
+        "endDate": "2023-06-01",
+        "score": "3.8/4.0",
+        "courses": [
+          "Mathematical Analysis I/II/III",
+          "Real Functions",
+          "Linear Algebra and Geometry",
+          "Advanced Algebra",
+          "Probability and Mathematical Statistics",
+          "Introduction to Machine Learning",
+          "Mathematical Methods in Finance",
+          "Data Structures and Algorithms"
+        ]
+      },
+      {
+        "institution": "Peking University",
+        "location": "Beijing, China",
+        "url": "",
+        "area": "Robotics Engineering",
+        "studyType": "Bachelor's",
+        "startDate": "2021-06-01",
+        "endDate": "2023-06-01",
+        "score": "3.8/4.0",
+        "courses": [
+          "Advanced Dynamics",
+          "Theoretical Mechanics",
+          "Fundamentals of Aerodynamics",
+          "Engineering Mathematics",
+          "Signals and Systems",
+          "Swarm Intelligence",
+          "Robot Sensing and Control",
+          "Analog Electronics",
+          "Digital Circuit Technology",
+          "Robotics Lab I/II/III"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Peking University Academic Excellence Award",
+        "date": "2020-12-01",
+        "awarder": "Peking University",
+        "url": "",
+        "summary": ""
+      },
+      {
+        "title": "First Prize in Beijing Mathematical Modeling Competition",
+        "date": "2021-11-01",
+        "awarder": "",
+        "url": "",
+        "summary": ""
+      },
+      {
+        "title": "Third Prize Scholarship of Peking University",
+        "date": "2021-01-01",
+        "awarder": "Peking University",
+        "url": "",
+        "summary": ""
+      },
+      {
+        "title": "First Prize in China Mathematics Competition",
+        "date": "2020-12-01",
+        "awarder": "",
+        "url": "",
+        "summary": ""
+      }
+    ],
+    "certificates": [],
+    "publications": [
+      {
+        "name": "Temporal local clustering coefficient uncovers the hidden pattern in temporal networks",
+        "publisher": "Phys. Rev. E",
+        "releaseDate": "2024-06-01",
+        "url": "https://doi.org/10.1103/PhysRevE.109.064302",
+        "summary": "Proposed a method to quantify clustering in temporal networks, uncovering patterns and revealing intrinsic interaction features in various empirical data sets."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming",
+        "level": "Advanced",
+        "keywords": [
+          "Python",
+          "MATLAB",
+          "C",
+          "C++",
+          "R",
+          "Verilog"
+        ]
+      },
+      {
+        "name": "Computer Tools",
+        "level": "Advanced",
+        "keywords": [
+          "Git",
+          "ROS",
+          "SolidWorks",
+          "Altium Designer",
+          "Vivado",
+          "LATEX"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Chinese",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "IELTS 7.0"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+      {
+        "name": "Quadruped Robot Design",
+        "summary": "Designed and prototyped a quadruped robot using 3D printing and Raspberry Pi for motor control, implementing a PID controller for basic gait execution.",
+        "highlights": [],
+        "startDate": "2023-03-01",
+        "endDate": "2023-06-01",
+        "url": ""
+      }
+    ]
+  }
+  
