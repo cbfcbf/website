@@ -110,8 +110,7 @@
         "name": "Temporal local clustering coefficient uncovers the hidden pattern in temporal networks",
         "publisher": "Phys. Rev. E 109, 064302",
         "releaseDate": "2024-01-01",
-        "url": "https://doi.org/10.1103/PhysRevE.109.064302",
-        "summary": "Proposed the local temporal clustering coefficient in temporal networks to quantify the clustering phenomenon in network by considering temporality. Discovered that the temporal local clustering coefficient can serve as an efficient identifier to distinguish different core-driven patterns of temporal networks."
+        "url": "https://doi.org/10.1103/PhysRevE.109.064302"
       }
     ],
     "skills": [
@@ -152,7 +151,6 @@
     ],
     "interests": [],
     "references": [],
-    "projects": [
-    ]
+    "projects": []
   }
   
