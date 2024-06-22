@@ -81,28 +81,20 @@
       }
     ],
     "awards": [
+        {
+            "title": "Third Class Scholarship of Peking University",
+            "date": "2021-01-01",
+            "summary": ""
+        },
       {
         "title": "Peking University Learning Excellence Award",
         "date": "2020-12-01",
-        "awarder": "Peking University",
-        "summary": ""
-      },
-      {
-        "title": "Peking University Learning Excellence Award",
-        "date": "2021-12-01",
-        "awarder": "Peking University",
         "summary": ""
       },
       {
         "title": "First Prize in Beijing Mathematical Modeling Competition",
         "date": "2021-11-01",
         "awarder": "",
-        "summary": ""
-      },
-      {
-        "title": "Third Class Scholarship of Peking University",
-        "date": "2021-01-01",
-        "awarder": "Peking University",
         "summary": ""
       },
       {
