@@ -6,6 +6,6 @@ nav: true
 nav_order: 5
 cv_pdf: CV.pdf
 description: Please click the icon on the right to download.
-# toc:
+toc:
 #   sidebar: left
 ---
