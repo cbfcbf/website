@@ -1,164 +1,130 @@
-{
+  {
     "basics": {
-      "name": "Chen Bofan",
-      "label": "Mathematician and Financial Economist",
+      "name": "Bofan Chen",
+      "label": "Student",
       "image": "",
       "email": "cbfcbf.byron@gmail.com",
       "phone": "+86 186-5816-3995",
-      "url": "",
-      "summary": "A highly accomplished mathematician and financial economist with a strong background in mathematics, finance, and engineering. Known for significant contributions in temporal network analysis and robust time series data representation.",
+      "url": "https://doi.org/10.1103/PhysRevE.109.064302",
+      "summary": "A student with a strong background in Mathematics and Robotics, with a dual degree in Finance and Robotics Engineering. Proven experience in research and various engineering projects.",
       "location": {
-        "address": "University of Cambridge",
+        "address": "",
         "postalCode": "",
         "city": "Cambridge",
-        "countryCode": "UK",
+        "countryCode": "GB",
         "region": "Cambridgeshire"
       },
       "profiles": []
     },
     "work": [
       {
-        "name": "University of Cambridge",
-        "position": "Researcher",
-        "url": "",
-        "startDate": "2023-11-01",
-        "endDate": "2024-05-01",
-        "summary": "Conducted research on meta-learning for time series data, proposing the MetaINR method and demonstrating its superior performance in various experiments.",
-        "highlights": [
-          "Developed MetaINR method for implicit neural representation of time series.",
-          "Integrated meta-learning into functional data analysis framework."
-        ]
-      },
-      {
-        "name": "Peking University",
-        "position": "Undergraduate Researcher",
-        "url": "",
-        "startDate": "2022-12-01",
-        "endDate": "2023-05-01",
-        "summary": "Conducted Bayesian comparison of asset pricing models, applying MCMC methods and analyzing the robustness of various priors.",
-        "highlights": [
-          "Utilized Bayesian statistics to compare asset pricing models.",
-          "Applied methodology to Chinese stock market data."
-        ]
-      },
-      {
-        "name": "Freestone Robotics Co., Ltd.",
+        "name": "Flintstone Robotics Co., Ltd.",
         "position": "Intern",
         "url": "",
         "startDate": "2021-07-01",
         "endDate": "2022-02-01",
-        "summary": "Worked on traditional motion detection algorithms and modified SLAM methods for improved robotic performance.",
+        "summary": "Literature review and modification of traditional motion detection algorithms for estimating manipulator posture.",
         "highlights": [
-          "Reviewed traditional motion detection algorithms.",
-          "Modified GMAPPING source code for non-ROS applications."
+          "Modified the source code of GMAPPING in ROS for application on non-ROS systems.",
+          "Matched RGB image information from camera and the pointclouds from LiDAR to fuse visual information into traditional LiDAR-based SLAM methods.",
+          "Programmed to match the objects between different frames by feature point recognition methods including SIFT and ORB.",
+          "Used principal component analysis to compress pointclouds from LiDAR in order to realize faster communication."
         ]
       }
     ],
-    "volunteer": [
-      {
-        "organization": "OneWho (Peking University Student Organization)",
-        "location": "Beijing, China",
-        "position": "Founding Team Member",
-        "url": "",
-        "startDate": "2021-11-01",
-        "endDate": "2023-06-01",
-        "summary": "Established a multidisciplinary student team for applying knowledge in engineering practice and promoting cross-disciplinary collaboration.",
-        "highlights": [
-          "Set up the course 'Building Drones from Scratch' with over 100 students enrolled each semester.",
-          "Guided 24 students in mechanical design, circuit design, and controller programming."
-        ]
-      }
-    ],
+    "volunteer": [],
     "education": [
       {
         "institution": "University of Cambridge",
-        "location": "Cambridge, UK",
-        "url": "",
+        "location": "Cambridge, United Kingdom",
+        "url": "https://www.cam.ac.uk/",
         "area": "Mathematics",
-        "studyType": "Master's",
+        "studyType": "Master of Advanced Study",
         "startDate": "2023-08-01",
         "endDate": "2024-06-01",
         "score": "73%",
         "courses": [
-          "Convex Optimization",
+          "Topics in Convex Optimization",
           "Numerical Solution of Differential Equations",
-          "Statistical Theory",
+          "Topics in Statistical Theory",
           "Information Theory",
           "Advanced Probability",
-          "Stochastic Calculus",
+          "Stochastic Calculus and Applications",
           "Functional Data Analysis"
         ]
       },
       {
         "institution": "Peking University",
         "location": "Beijing, China",
-        "url": "",
-        "area": "Financial Economics",
-        "studyType": "Bachelor's",
+        "url": "https://www.pku.edu.cn/",
+        "area": "Finance",
+        "studyType": "Bachelor of Economics",
         "startDate": "2019-06-01",
         "endDate": "2023-06-01",
         "score": "3.8/4.0",
         "courses": [
-          "Mathematical Analysis I/II/III",
-          "Real Functions",
-          "Linear Algebra and Geometry",
-          "Advanced Algebra",
-          "Probability and Mathematical Statistics",
-          "Introduction to Machine Learning",
-          "Mathematical Methods in Finance",
-          "Data Structures and Algorithms"
+          "Mathematical Analysis I/II/III (93,87,92)",
+          "Functions of Real Variables (P)",
+          "Linear Algebra and Geometry (88)",
+          "Advanced Algebra (86)",
+          "Probability and Mathematical Statistics (98)",
+          "Mathematical Introduction to Machine Learning (93)",
+          "Mathematical Methods in Finance (100)",
+          "Data Structure and Algorithm (92)"
         ]
       },
       {
         "institution": "Peking University",
         "location": "Beijing, China",
-        "url": "",
+        "url": "https://www.pku.edu.cn/",
         "area": "Robotics Engineering",
-        "studyType": "Bachelor's",
+        "studyType": "Bachelor of Engineering",
         "startDate": "2021-06-01",
         "endDate": "2023-06-01",
         "score": "3.8/4.0",
         "courses": [
-          "Advanced Dynamics",
-          "Theoretical Mechanics",
-          "Fundamentals of Aerodynamics",
-          "Engineering Mathematics",
-          "Signals and Systems",
-          "Swarm Intelligence",
-          "Robot Sensing and Control",
-          "Analog Electronics",
-          "Digital Circuit Technology",
-          "Robotics Lab I/II/III"
+          "Advanced Dynamics (98)",
+          "Theoretical Mechanics (P)",
+          "Aerodynamic Foundation (93)",
+          "Mathematics in Engineering (86)",
+          "Signals and Systems (89)",
+          "Swarm Intelligence (98)",
+          "Robot Perception and Control (P)",
+          "Analog Electronic Technology (89)",
+          "Digital Circuit Technology (95)",
+          "Robotics Experiments I/II/III (92.5,P,92)"
         ]
       }
     ],
     "awards": [
       {
-        "title": "Peking University Academic Excellence Award",
+        "title": "Peking University Learning Excellence Award",
         "date": "2020-12-01",
         "awarder": "Peking University",
-        "url": "",
+        "summary": ""
+      },
+      {
+        "title": "Peking University Learning Excellence Award",
+        "date": "2021-12-01",
+        "awarder": "Peking University",
         "summary": ""
       },
       {
         "title": "First Prize in Beijing Mathematical Modeling Competition",
         "date": "2021-11-01",
         "awarder": "",
-        "url": "",
         "summary": ""
       },
       {
-        "title": "Third Prize Scholarship of Peking University",
+        "title": "Third Class Scholarship of Peking University",
         "date": "2021-01-01",
         "awarder": "Peking University",
-        "url": "",
         "summary": ""
       },
       {
-        "title": "First Prize in China Mathematics Competition",
+        "title": "First Prize in Chinese Mathematics Competition",
         "date": "2020-12-01",
         "awarder": "",
-        "url": "",
         "summary": ""
       }
     ],
@@ -166,16 +132,16 @@
     "publications": [
       {
         "name": "Temporal local clustering coefficient uncovers the hidden pattern in temporal networks",
-        "publisher": "Phys. Rev. E",
-        "releaseDate": "2024-06-01",
+        "publisher": "Phys. Rev. E 109, 064302",
+        "releaseDate": "2024-01-01",
         "url": "https://doi.org/10.1103/PhysRevE.109.064302",
-        "summary": "Proposed a method to quantify clustering in temporal networks, uncovering patterns and revealing intrinsic interaction features in various empirical data sets."
+        "summary": "Proposed the local temporal clustering coefficient in temporal networks to quantify the clustering phenomenon in network by considering temporality. Discovered that the temporal local clustering coefficient can serve as an efficient identifier to distinguish different core-driven patterns of temporal networks."
       }
     ],
     "skills": [
       {
-        "name": "Programming",
-        "level": "Advanced",
+        "name": "Programming Languages",
+        "level": "",
         "keywords": [
           "Python",
           "MATLAB",
@@ -187,7 +153,7 @@
       },
       {
         "name": "Computer Tools",
-        "level": "Advanced",
+        "level": "",
         "keywords": [
           "Git",
           "ROS",
@@ -201,7 +167,7 @@
     "languages": [
       {
         "language": "Chinese",
-        "fluency": "Native"
+        "fluency": "Native speaker"
       },
       {
         "language": "English",
@@ -212,9 +178,48 @@
     "references": [],
     "projects": [
       {
-        "name": "Quadruped Robot Design",
-        "summary": "Designed and prototyped a quadruped robot using 3D printing and Raspberry Pi for motor control, implementing a PID controller for basic gait execution.",
-        "highlights": [],
+        "name": "Meta-learning for Time Series Data",
+        "summary": "Proposed MetaINR method for learning the implicit neural representation (INR) of time series from sparse and irregular observations.",
+        "highlights": [
+          "Employed the SIREN-based network architecture to robustly recover complete samples based on a few observation points, preserving fine details in each sample.",
+          "Incorporated meta-learning into the functional data analysis (FDA) framework, efficiently estimating mean function, covariance operator, and functional principal components without any prior assumptions.",
+          "Conducted experiments on both synthetic and real medical data, demonstrating that MetaINR significantly outperforms baseline methods in terms of estimation accuracy and robustness."
+        ],
+        "startDate": "2023-11-01",
+        "endDate": "2024-05-01",
+        "url": ""
+      },
+      {
+        "name": "Comparison of Asset Pricing Models",
+        "summary": "Compared different types of asset pricing models by using Bayesian statistics method.",
+        "highlights": [
+          "Implemented the Markov chain Monte Carlo (MCMC) method in Python to calculate the posterior probability of each potential model.",
+          "Derived the analytical solution of each potential model’s posterior probability using power-law priors (including Jeffery prior and uniform prior) and analyzed the result’s robustness among these priors.",
+          "Applied the method to the data from Chinese stock market and selected the most efficient asset pricing factors and models."
+        ],
+        "startDate": "2022-12-01",
+        "endDate": "2023-05-01",
+        "url": ""
+      },
+      {
+        "name": "Design of Ground-Air Cooperative Delivery System",
+        "summary": "Aimed to incorporate unmanned vehicles and drones for realizing unmanned express.",
+        "highlights": [
+          "Programmed a pure pursuit controller that enables the unmanned vehicle to track the precomputed waypoints.",
+          "Implemented serial communication for the differential GPS in Robot Operating System (ROS) to achieve centimeter-level relocalization performance.",
+          "Designed the lifting platform on the unmanned vehicle by SolidWorks to land drones and pass package from the unmanned vehicle to the drone."
+        ],
+        "startDate": "2021-11-01",
+        "endDate": "2022-04-01",
+        "url": ""
+      },
+      {
+        "name": "Design of Legged Robot",
+        "summary": "Designed the structure of a quadruped robot using SolidWorks and prototyped it with 3D printing technology.",
+        "highlights": [
+          "Controlled motor servos using a Raspberry Pi via TTL and RS485 communication protocols.",
+          "Implemented a PID controller to achieve the pre-designed fundamental gait of the quadruped robot."
+        ],
         "startDate": "2023-03-01",
         "endDate": "2023-06-01",
         "url": ""
