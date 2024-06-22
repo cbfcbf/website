@@ -100,7 +100,6 @@
         "summary": ""
       }
     ],
-    "certificates": [],
     "publications": [
       {
         "name": "Temporal local clustering coefficient uncovers the hidden pattern in temporal networks",
@@ -144,55 +143,6 @@
       {
         "language": "English",
         "fluency": "IELTS 7.0"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Meta-learning for Time Series Data",
-        "summary": "Proposed MetaINR method for learning the implicit neural representation (INR) of time series from sparse and irregular observations.",
-        "highlights": [
-          "Employed the SIREN-based network architecture to robustly recover complete samples based on a few observation points, preserving fine details in each sample.",
-          "Incorporated meta-learning into the functional data analysis (FDA) framework, efficiently estimating mean function, covariance operator, and functional principal components without any prior assumptions.",
-          "Conducted experiments on both synthetic and real medical data, demonstrating that MetaINR significantly outperforms baseline methods in terms of estimation accuracy and robustness."
-        ],
-        "startDate": "2023-11",
-        "endDate": "2024-05",
-        "url": ""
-      },
-      {
-        "name": "Comparison of Asset Pricing Models",
-        "summary": "Compared different types of asset pricing models by using Bayesian statistics method.",
-        "highlights": [
-          "Implemented the Markov chain Monte Carlo (MCMC) method in Python to calculate the posterior probability of each potential model.",
-          "Derived the analytical solution of each potential model’s posterior probability using power-law priors (including Jeffery prior and uniform prior) and analyzed the result’s robustness among these priors.",
-          "Applied the method to the data from Chinese stock market and selected the most efficient asset pricing factors and models."
-        ],
-        "startDate": "2022-12",
-        "endDate": "2023-05",
-        "url": ""
-      },
-      {
-        "name": "Design of Ground-Air Cooperative Delivery System",
-        "summary": "Aimed to incorporate unmanned vehicles and drones for realizing unmanned express.",
-        "highlights": [
-          "Programmed a pure pursuit controller that enables the unmanned vehicle to track the precomputed waypoints.",
-          "Implemented serial communication for the differential GPS in Robot Operating System (ROS) to achieve centimeter-level relocalization performance.",
-          "Designed the lifting platform on the unmanned vehicle by SolidWorks to land drones and pass package from the unmanned vehicle to the drone."
-        ],
-        "startDate": "2021-11",
-        "endDate": "2022-04",
-        "url": ""
-      },
-      {
-        "name": "Design of Legged Robot",
-        "summary": "Designed the structure of a quadruped robot using SolidWorks and prototyped it with 3D printing technology.",
-        "highlights": [
-          "Controlled motor servos using a Raspberry Pi via TTL and RS485 communication protocols.",
-          "Implemented a PID controller to achieve the pre-designed fundamental gait of the quadruped robot."
-        ],
-        "startDate": "2023-03",
-        "endDate": "2023-06",
-        "url": ""
       }
     ]
   }
