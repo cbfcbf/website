@@ -1,38 +1,10 @@
   {
     "basics": {
       "name": "Bofan Chen",
-    //   "label": "Student",
       "image": "",
       "email": "cbfcbf.byron@gmail.com",
       "phone": "+86 186-5816-3995",
-    //   "url": "https://doi.org/10.1103/PhysRevE.109.064302",
-    //   "summary": "A student with a strong background in Mathematics and Robotics, with a dual degree in Finance and Robotics Engineering. Proven experience in research and various engineering projects.",
-    //   "location": {
-    //     "address": "",
-    //     "postalCode": "",
-    //     "city": "Cambridge",
-    //     "countryCode": "GB",
-    //     "region": "Cambridgeshire"
-    //   },
-    //   "profiles": []
     },
-    // "Intern": [
-    //   {
-    //     "name": "Flintstone Robotics Co., Ltd.",
-    //     // "position": "Intern",
-    //     "url": "",
-    //     "startDate": "2021-07",
-    //     "endDate": "2022-02",
-    //     // "summary": "Literature review and modification of traditional motion detection algorithms for estimating manipulator posture.",
-    //     "highlights": [
-    //       "Modified the source code of GMAPPING in ROS for application on non-ROS systems.",
-    //       "Matched RGB image information from camera and the pointclouds from LiDAR to fuse visual information into traditional LiDAR-based SLAM methods.",
-    //       "Programmed to match the objects between different frames by feature point recognition methods including SIFT and ORB.",
-    //       "Used principal component analysis to compress pointclouds from LiDAR in order to realize faster communication."
-    //     ]
-    //   }
-    // ],
-    // "volunteer": [],
     "education": [
       {
         "institution": "University of Cambridge",
@@ -174,8 +146,6 @@
         "fluency": "IELTS 7.0"
       }
     ],
-    // "interests": [],
-    // "references": [],
     "projects": [
       {
         "name": "Meta-learning for Time Series Data",
