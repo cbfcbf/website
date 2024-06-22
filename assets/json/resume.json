@@ -1,38 +1,38 @@
   {
     "basics": {
       "name": "Bofan Chen",
-      "label": "Student",
+    //   "label": "Student",
       "image": "",
       "email": "cbfcbf.byron@gmail.com",
       "phone": "+86 186-5816-3995",
-      "url": "https://doi.org/10.1103/PhysRevE.109.064302",
-      "summary": "A student with a strong background in Mathematics and Robotics, with a dual degree in Finance and Robotics Engineering. Proven experience in research and various engineering projects.",
-      "location": {
-        "address": "",
-        "postalCode": "",
-        "city": "Cambridge",
-        "countryCode": "GB",
-        "region": "Cambridgeshire"
-      },
-      "profiles": []
+    //   "url": "https://doi.org/10.1103/PhysRevE.109.064302",
+    //   "summary": "A student with a strong background in Mathematics and Robotics, with a dual degree in Finance and Robotics Engineering. Proven experience in research and various engineering projects.",
+    //   "location": {
+    //     "address": "",
+    //     "postalCode": "",
+    //     "city": "Cambridge",
+    //     "countryCode": "GB",
+    //     "region": "Cambridgeshire"
+    //   },
+    //   "profiles": []
     },
-    "work": [
-      {
-        "name": "Flintstone Robotics Co., Ltd.",
-        "position": "Intern",
-        "url": "",
-        "startDate": "2021-07-01",
-        "endDate": "2022-02-01",
-        "summary": "Literature review and modification of traditional motion detection algorithms for estimating manipulator posture.",
-        "highlights": [
-          "Modified the source code of GMAPPING in ROS for application on non-ROS systems.",
-          "Matched RGB image information from camera and the pointclouds from LiDAR to fuse visual information into traditional LiDAR-based SLAM methods.",
-          "Programmed to match the objects between different frames by feature point recognition methods including SIFT and ORB.",
-          "Used principal component analysis to compress pointclouds from LiDAR in order to realize faster communication."
-        ]
-      }
+    // "Intern": [
+    //   {
+    //     "name": "Flintstone Robotics Co., Ltd.",
+    //     // "position": "Intern",
+    //     "url": "",
+    //     "startDate": "2021-07",
+    //     "endDate": "2022-02",
+    //     // "summary": "Literature review and modification of traditional motion detection algorithms for estimating manipulator posture.",
+    //     "highlights": [
+    //       "Modified the source code of GMAPPING in ROS for application on non-ROS systems.",
+    //       "Matched RGB image information from camera and the pointclouds from LiDAR to fuse visual information into traditional LiDAR-based SLAM methods.",
+    //       "Programmed to match the objects between different frames by feature point recognition methods including SIFT and ORB.",
+    //       "Used principal component analysis to compress pointclouds from LiDAR in order to realize faster communication."
+    //     ]
+    //   }
     ],
-    "volunteer": [],
+    // "volunteer": [],
     "education": [
       {
         "institution": "University of Cambridge",
@@ -40,9 +40,9 @@
         "url": "https://www.cam.ac.uk/",
         "area": "Mathematics",
         "studyType": "Master of Advanced Study",
-        "startDate": "2023-08-01",
-        "endDate": "2024-06-01",
-        "score": "73%",
+        "startDate": "2023-08",
+        "endDate": "2024-06",
+        "score": "73%, First-Class Honours degree",
         "courses": [
           "Topics in Convex Optimization",
           "Numerical Solution of Differential Equations",
@@ -59,8 +59,8 @@
         "url": "https://www.pku.edu.cn/",
         "area": "Finance",
         "studyType": "Bachelor of Economics",
-        "startDate": "2019-06-01",
-        "endDate": "2023-06-01",
+        "startDate": "2019-09",
+        "endDate": "2023-06",
         "score": "3.8/4.0",
         "courses": [
           "Mathematical Analysis I/II/III (93,87,92)",
@@ -79,8 +79,8 @@
         "url": "https://www.pku.edu.cn/",
         "area": "Robotics Engineering",
         "studyType": "Bachelor of Engineering",
-        "startDate": "2021-06-01",
-        "endDate": "2023-06-01",
+        "startDate": "2019-09",
+        "endDate": "2023-06",
         "score": "3.8/4.0",
         "courses": [
           "Advanced Dynamics (98)",
@@ -99,31 +99,31 @@
     "awards": [
       {
         "title": "Peking University Learning Excellence Award",
-        "date": "2020-12-01",
+        "date": "2020-12",
         "awarder": "Peking University",
         "summary": ""
       },
       {
         "title": "Peking University Learning Excellence Award",
-        "date": "2021-12-01",
+        "date": "2021-12",
         "awarder": "Peking University",
         "summary": ""
       },
       {
         "title": "First Prize in Beijing Mathematical Modeling Competition",
-        "date": "2021-11-01",
+        "date": "2021-11",
         "awarder": "",
         "summary": ""
       },
       {
         "title": "Third Class Scholarship of Peking University",
-        "date": "2021-01-01",
+        "date": "2021-01",
         "awarder": "Peking University",
         "summary": ""
       },
       {
         "title": "First Prize in Chinese Mathematics Competition",
-        "date": "2020-12-01",
+        "date": "2020-12",
         "awarder": "",
         "summary": ""
       }
@@ -174,8 +174,8 @@
         "fluency": "IELTS 7.0"
       }
     ],
-    "interests": [],
-    "references": [],
+    // "interests": [],
+    // "references": [],
     "projects": [
       {
         "name": "Meta-learning for Time Series Data",
@@ -185,8 +185,8 @@
           "Incorporated meta-learning into the functional data analysis (FDA) framework, efficiently estimating mean function, covariance operator, and functional principal components without any prior assumptions.",
           "Conducted experiments on both synthetic and real medical data, demonstrating that MetaINR significantly outperforms baseline methods in terms of estimation accuracy and robustness."
         ],
-        "startDate": "2023-11-01",
-        "endDate": "2024-05-01",
+        "startDate": "2023-11",
+        "endDate": "2024-05",
         "url": ""
       },
       {
@@ -197,8 +197,8 @@
           "Derived the analytical solution of each potential model’s posterior probability using power-law priors (including Jeffery prior and uniform prior) and analyzed the result’s robustness among these priors.",
           "Applied the method to the data from Chinese stock market and selected the most efficient asset pricing factors and models."
         ],
-        "startDate": "2022-12-01",
-        "endDate": "2023-05-01",
+        "startDate": "2022-12",
+        "endDate": "2023-05",
         "url": ""
       },
       {
@@ -209,8 +209,8 @@
           "Implemented serial communication for the differential GPS in Robot Operating System (ROS) to achieve centimeter-level relocalization performance.",
           "Designed the lifting platform on the unmanned vehicle by SolidWorks to land drones and pass package from the unmanned vehicle to the drone."
         ],
-        "startDate": "2021-11-01",
-        "endDate": "2022-04-01",
+        "startDate": "2021-11",
+        "endDate": "2022-04",
         "url": ""
       },
       {
@@ -220,8 +220,8 @@
           "Controlled motor servos using a Raspberry Pi via TTL and RS485 communication protocols.",
           "Implemented a PID controller to achieve the pre-designed fundamental gait of the quadruped robot."
         ],
-        "startDate": "2023-03-01",
-        "endDate": "2023-06-01",
+        "startDate": "2023-03",
+        "endDate": "2023-06",
         "url": ""
       }
     ]
