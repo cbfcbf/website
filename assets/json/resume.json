@@ -72,23 +72,23 @@
     "awards": [
         {
             "title": "Third Class Scholarship of Peking University",
-            "date": "2021-01-01",
+            "date": "2021-01",
             "summary": ""
         },
       {
         "title": "Peking University Learning Excellence Award",
-        "date": "2020-12-01",
+        "date": "2020-12",
         "summary": ""
       },
       {
         "title": "First Prize in Beijing Mathematical Modeling Competition",
-        "date": "2021-11-01",
+        "date": "2021-11",
         "awarder": "",
         "summary": ""
       },
       {
         "title": "First Prize in Chinese Mathematics Competition",
-        "date": "2020-12-01",
+        "date": "2020-12",
         "awarder": "",
         "summary": ""
       }
@@ -98,7 +98,7 @@
       {
         "name": "Temporal local clustering coefficient uncovers the hidden pattern in temporal networks",
         "publisher": "Phys. Rev. E 109, 064302",
-        "releaseDate": "2024-01-01",
+        "releaseDate": "2024-06-05",
         "url": "https://doi.org/10.1103/PhysRevE.109.064302"
       }
     ],
